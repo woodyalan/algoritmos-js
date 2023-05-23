@@ -4,7 +4,7 @@
 1. Faça um algorítimo que armazene a mensagem "Meu primeiro log" em uma constante e a exiba utilizando console.log().
 2. Faça um algorítimo que armazene a mensagem "Meu primeiro alerta" em uma váriável (let ou var) e a exiba utilizando alert().
 
-## Converão de Dados, operações aritiméticas
+## Conversão de Dados, operações aritiméticas
 3. Faça um programa que solicite três números e exiba o resultado da média aritmética destes números.
 4. Faça um programa que permita informar o nome e o salário de um funcionário, mostrando ao fim novo salário, sabendo que o mesmo teve um aumento de 15% e um desconto de vale transporte de 1% sobre o novo salário.
 
