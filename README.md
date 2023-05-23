@@ -1,8 +1,8 @@
 # Algoritmos com JavaScript
 
 ## Entrada e Saída de Dados
-1. Faça um algorítimo que exiba a mensagem "Meu primeiro log" utilizando console.log().
-2. Faça um algorítimo que exiba a mensagem "Meu primeiro alerta" utilizando alert().
+1. Faça um algorítimo que armazene a mensagem "Meu primeiro log" em uma constante e a exiba utilizando console.log().
+2. Faça um algorítimo que armazene a mensagem "Meu primeiro alerta" em uma váriável (let ou var) e a exiba utilizando alert().
 
 ## Converão de Dados, operações aritiméticas
 3. Faça um programa que solicite três números e exiba o resultado da média aritmética destes números.
