@@ -15,8 +15,7 @@
 
 ## Laços de repetição
 8. Faça um algoritmo que exiba as tabuadas dos números de 1 a 10 usando laços de repetição.
-9. Faça um algoritmo que leia três números e os exiba na ordem da leitura. Em seguida, exiba-os em ordem crescente e decrescente.
-10. Faça um algoritmo que leia a idade de 15 pessoas e exiba os calculos a seguir:
+9. Faça um algoritmo que leia a idade de 15 pessoas e exiba os calculos a seguir:
   * A quantidade de pessoas em cada faixa etária;
   * O percentual de pessoas na primeira e na última faixa etária, com relação ao total de pessoas: 
 
@@ -28,3 +27,6 @@ Faixas etárias:
 * Acima de 61 anos
 
 ## Arrays e Objetos
+10. Faça um algoritmo que leia três números e os exiba na ordem da leitura. Em seguida, exiba-os em ordem crescente e decrescente.
+11. 
+12. Devido a variação nos preços dos combustíveis, os postos precisam repassar aos clientes as variações dos preços. Faça um algoritmo que apresente uma lista dos combustíveis disponíveis contendo os nomes (gasolina comum, gasolina aditivada, etanol e diesel), suas matérias primas (petróleo ou cana de açucar) e solicite o percentual de reajuste e para qual matéria prima deseja reajustar (petróleo, cana de açucar ou todos). Ao final exiba reexiba a lista com seus novos preços.
