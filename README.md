@@ -27,6 +27,8 @@ Faixas etárias:
 * Acima de 61 anos
 
 ## Arrays e Objetos
-10. Faça um algoritmo que leia três números e os exiba na ordem da leitura. Em seguida, exiba-os em ordem crescente e decrescente.
-11. 
-12. Devido a variação nos preços dos combustíveis, os postos precisam repassar aos clientes as variações dos preços. Faça um algoritmo que apresente uma lista dos combustíveis disponíveis contendo os nomes (gasolina comum, gasolina aditivada, etanol e diesel), suas matérias primas (petróleo ou cana de açucar) e solicite o percentual de reajuste e para qual matéria prima deseja reajustar (petróleo, cana de açucar ou todos). Ao final exiba reexiba a lista com seus novos preços.
+10. Faça um algoritmo que leia 10 números e os armazene em um array. Ao fim, apresente a soma de todos os números.
+11. Faça um algoritmo que leia uma lista de 5 nomes, idades e cores favoritas a serem armazenadas em objetos. Ao fim, apresente as informações. 
+12. Faça um algoritmo que leia três números e os exiba na ordem da leitura. Em seguida, exiba-os em ordem crescente e decrescente.
+13. Nos concursos da mega-sena seis números únicos de 1 a 60 são sorteados. Considerando isso, faça um algoritmo que leia os números (6 ou mais) de uma ou mais apostas e ao fim exiba o número de acertos e erros de cada jogo. Os números sorteados devem ser lidos ao fim, antes da exibição do resultado.
+14. Devido a variação nos preços dos combustíveis, os postos precisam repassar aos clientes as variações dos preços. Faça um algoritmo que apresente uma lista dos combustíveis disponíveis contendo os nomes (gasolina comum, gasolina aditivada, etanol e diesel), suas matérias primas (petróleo ou cana de açucar) e solicite o percentual de reajuste e para qual matéria prima deseja reajustar (petróleo, cana de açucar ou todos). Ao final exiba reexiba a lista com seus novos preços.
